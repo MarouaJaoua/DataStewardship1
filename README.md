@@ -31,6 +31,7 @@ DataStewardship1
 │   ├── life_expectancy_male_female.csv
 │   ├── mergedData.csv
 │   ├── preprocessedData.csv
+│   ├── metadata.txt
 │   └── who_data.csv
 ├── images
 │   ├── life_exp_high_variance.png
@@ -48,6 +49,7 @@ The folder data includes all the data used to generate the results of this proje
 The links to the detailed data sources is included in "data_sources.txt".
 The merged data created by the jupyter notebook is saved under "mergedData.csv". 
 The preprocessed data created by the jupyter notebook is saved under "preprocessedData.csv".
+The metadata can be found in "metadata.txt".
 
 ### Reproduce Results
 To reproduce the results, launch and run the jupyter notebook "life_exp_notebook_group_30.ipynb". It generates the csv files "mergedData.csv" and "preprocessedData.csv". It also generates graphs which can be found under the folder images. 

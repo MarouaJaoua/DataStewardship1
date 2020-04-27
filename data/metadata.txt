@@ -1,0 +1,9 @@
+Description of Files:
+
+* characteristics_siegl: The characteristics of each country including the iso identifiers
+* gni_per_capita: The index gni per capita
+* income_groups: The income groups including the low, lower, upper and high groups
+* life_expectancy_male_female: The life expectancy for both genders (male and female).
+* mergedData : The data obtained after merging all sources
+* preprocessedData : The data obtained after preprocessing the merged data
+* who_data : The data from world health organization (WHO)

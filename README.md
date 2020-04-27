@@ -38,7 +38,9 @@ DataStewardship1
 │   ├── life_exp_per_gender.png
 │   ├── life_exp_per_income.png
 │   └── pandasformat.png
-├── .gitignore
+├── images
+│   ├── metadata.xml
+│   └── group30_presentation.pdf
 ├── LICENSE
 ├── README.md
 ├── life_exp_notebook_group_30.ipynb

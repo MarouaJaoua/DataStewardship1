@@ -1,7 +1,8 @@
 
 # Data Oriented Programming Paradigms Assignment : Life Expectancy Analysis and Prediction
 
-A DOI is created for the first release of this repository.
+A DOI is created for the first release of this repository. \
+
 [![DOI](https://zenodo.org/badge/259260544.svg)](https://zenodo.org/badge/latestdoi/259260544)
 
 ### Introduction

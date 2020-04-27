@@ -32,6 +32,7 @@ DataStewardship1
 │   ├── mergedData.csv
 │   ├── preprocessedData.csv
 │   ├── metadata.txt
+│   ├── LICENSE
 │   └── who_data.csv
 ├── images
 │   ├── life_exp_high_variance.png

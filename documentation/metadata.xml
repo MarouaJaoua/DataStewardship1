@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>Data Oriented Programming Paradigms Assignment : Life Expectancy Analysis and Prediction</dc:title>
+<dc:creator>Maroua JAOUA (https://orcid.org/0000-0001-8109-9644)</dc:creator>
+<dc:subject>Life Expectancy</dc:subject>
+<dc:description>The project consists of the analysis and prediction of Life Expectancy 
+for countries around the world using data mining methods.</dc:description>
+<dc:date>27.04.2020</dc:date>
+<dc:format>Jupyternotebook</dc:format>
+<dc:source>https://github.com/MarouaJaoua/DataStewardship1.git</dc:source>
+<dc:language>English</dc:language>
+<dc:coverage>2000 - 2016</dc:coverage>
+<dc:rights>MIT License </dc:rights>
+</metadata>

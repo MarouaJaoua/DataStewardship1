@@ -53,6 +53,9 @@ The links to the detailed data sources is included in "data_sources.txt".
 The merged data created by the jupyter notebook is saved under "mergedData.csv". 
 The preprocessed data created by the jupyter notebook is saved under "preprocessedData.csv".
 The metadata can be found in "metadata.txt".
+The license for Kaggle data is **CC0 1.0** which allows the reuse of the data.
+The license for World Bank data is **ODbL** or **CC-BY 4.0** which both allow users to copy, modify and distribute data in any format for any purpose.
+The license for World Health Organisation data is **CC BY-NC-SA 3.0 IGO** which allows users to freely copy, reproduce, reprint, distribute, translate and adapt the work for non-commercial purposes.
 
 ### Reproduce Results
 To reproduce the results, launch and run the jupyter notebook "life_exp_notebook_group_30.ipynb". It generates the csv files "mergedData.csv" and "preprocessedData.csv". It also generates graphs which can be found under the folder images. 

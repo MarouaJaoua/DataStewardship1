@@ -1,0 +1,32 @@
+Characteristic	Data Source	
+LifeExpectency(gender,country)	UN https://population.un.org/wpp/Download/Standard/CSV/	
+Lifestyle - Values likeImportance in life of religion, democracy,family (etc.)	http://www.worldvaluessurvey.org/wvs.jsp	
+ percentage expenditure, schooling,  Polio,  Diphtheria,  Measles, HIV/AIDS,  Hepatitis B , status (developings vs developed) ,  Adult Mortality,  infant deaths 	https://www.kaggle.com/kumarajarshi/life-expectancy-who/data	
+Male and female life expectancy, continent	https://www.kaggle.com/amansaxena/lifeexpectancy	
+Life Expectancy 	Worldbank https://data.worldbank.org/indicator/SP.DYN.LE00.IN	
+physicians per 1000citizen	Worldbank https://data.worldbank.org/indicator/SH.MED.PHYS.ZS	
+Hospital Beds per 1000 citizen	Worldbank https://data.worldbank.org/indicator/SH.MED.BEDS.ZS	
+nurses per 1000 citizen	Worldbank https://data.worldbank.org/indicator/SH.MED.NUMW.P3	
+% Urban Population	Worldbank https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?view=chart	
+health expenditure  % of GDP	Worldbank https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS	
+current health expenditure in $	Worldbank https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CDD.CHEX.PC.CD	
+BMI information per country	NCD http://ncdrisc.org/downloads/bmi/NCD_RisC_Lancet_2017_BMI_age_standardised_country.csv	
+GDP	Worldbank https://data.worldbank.org/indicator/NY.GDP.MKTP.CD	
+GDP PPP	Worldbank https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.CD	
+% of citizen owning Social Insurance	Worldbank https://data.worldbank.org/indicator/per_si_allsi.cov_pop_tot	
+Insufficient Physical Exercise	GHO https://apps.who.int/gho/athena/data/GHO/NCD_PAC,NCD_PAA?filter=AGEGROUP:YEARS18-PLUS;COUNTRY:*;SEX:*;&x-sideaxis=COUNTRY;YEAR;AGEGROUP&x-topaxis=GHO;SEX&profile=crosstable&format=csv	
+Insufficient Physical Exercise Pupils	GHO https://apps.who.int/gho/athena/data/GHO/NCD_PAC_ADO?filter=AGEGROUP:YEARS11-17;COUNTRY:*;SEX:*&x-sideaxis=COUNTRY;YEAR&x-topaxis=GHO;SEX&profile=crosstable&format=csv	
+Tobacco Usage	GHO https://apps.who.int/gho/athena/data/GHO/TOBACCO_0000000344,TOBACCO_0000000192?filter=COUNTRY:*;REGION:*;SEX:*&x-sideaxis=COUNTRY;YEAR&x-topaxis=GHO;SEX&profile=crosstable&format=csv	
+Alcohol Usage	GHO http://apps.who.int/gho/data/view.main.1800?lang=en	
+Prevalence of Obesity (age-standardized)	GHO http://apps.who.int/gho/data/view.main.CTRY2450A?lang=en	
+Drinking Water Statistics	GHO http://apps.who.int/gho/data/node.main.SDG61?lang=en	
+Alternative Target?? Healthy life expcetancy	GHO http://apps.who.int/gho/data/node.main.HALE?lang=en	
+Access to electricity (% of population)(EG.ELC.ACCS.ZS)	https://databank.worldbank.org/source/world-development-indicators#	
+Urban population (% of total population)	https://databank.worldbank.org/source/world-development-indicators#	
+Current health expenditure (% of GDP)(SH.XPD.CHEX.GD.ZS)	https://databank.worldbank.org/source/world-development-indicators#	
+Smoking prevalence, total (ages 15+)(SH.PRV.SMOK)	https://databank.worldbank.org/source/world-development-indicators#	
+Research and development expenditure (% of GDP)(GB.XPD.RSDV.GD.ZS)	https://databank.worldbank.org/source/world-development-indicators#	
+GINI index (World Bank estimate)(SI.POV.GINI)	https://databank.worldbank.org/source/world-development-indicators#	
+Unemployment, total (% of total labor force) (modeled ILO estimate)(SL.UEM.TOTL.ZS)	https://databank.worldbank.org/source/world-development-indicators#	
+Tax revenue (% of GDP)(GC.TAX.TOTL.GD.ZS)	https://databank.worldbank.org/source/world-development-indicators#	
+Human capital index (HCI) (scale 0-1) (not used)	https://databank.worldbank.org/source/world-development-indicators#	

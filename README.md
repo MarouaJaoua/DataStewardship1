@@ -1,6 +1,9 @@
 
 # Data Oriented Programming Paradigms Assignment : Life Expectancy Analysis and Prediction
 
+A DOI is created for the first release of this repository.
+[![DOI](https://zenodo.org/badge/259260544.svg)](https://zenodo.org/badge/latestdoi/259260544)
+
 ### Introduction
 This project was performed by a team of three students as part of the course Data Oriented Programming Paradigms. The aim of this project is to answer the following reasearch questions:
 - What is the average human life expectancy in the world?

@@ -60,7 +60,11 @@ The metadata can be found in "metadata.txt".\
 The license for Kaggle data is **CC0 1.0** which allows the reuse of the data.\
 The license for World Bank data is **ODbL** or **CC-BY 4.0** which both allow users to copy, modify and distribute data in any format for any purpose.\
 The license for World Health Organisation data is **CC BY-NC-SA 3.0 IGO** which allows users to freely copy, reproduce, reprint, distribute, translate and adapt the work for non-commercial purposes. \
-A DOI was created for the generated data. \
+A DOI was created for the collected data. 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3770486.svg)](https://doi.org/10.5281/zenodo.3770486)
+
+A DOI was created for the generated data. 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3770405.svg)](https://doi.org/10.5281/zenodo.3770405)
 

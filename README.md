@@ -62,7 +62,7 @@ To reproduce the results, launch and run the jupyter notebook "life_exp_notebook
 
 ### Authors
 
-* **Maroua Jaoua** 
+* **Maroua Jaoua** (https://orcid.org/0000-0001-8109-9644) 
 * **Bogensperger Johannes** 
 * **Siegl Stephan** 
 

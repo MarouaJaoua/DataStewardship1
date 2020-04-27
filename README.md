@@ -38,7 +38,7 @@ DataStewardship1
 │   ├── life_exp_per_gender.png
 │   ├── life_exp_per_income.png
 │   └── pandasformat.png
-├── images
+├── documenation
 │   ├── metadata.xml
 │   └── group30_presentation.pdf
 ├── LICENSE

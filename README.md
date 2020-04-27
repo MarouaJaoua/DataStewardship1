@@ -1,17 +1,29 @@
-# DOPP_EX3
-TU Vienna - Data oriented programming paradigms Exercise 3
 
+# Data Oriented Programming Paradigms Assignment : Life Expectancy Analysis and Prediction
 
-### Overleaf - Report Document
+### Introduction
+This project was performed by a team of three students as part of the course Data Oriented Programming Paradigms. The aim of this project is to answer the following reasearch questions:
+- What is the average human life expectancy in the world?
+- How does this differ between low-, medium, and high-income countries?
+- How does this differ between male and female?
+- What characteristics of countries are predictors for differences in life expectancy?
+- What are the countries that have the highest improvement and the lowest improvement in terms of life expectancy at birth?
 
-https://www.overleaf.com/9251749975ngxdmbrnyvyt
+### Requirements
 
-https://docs.google.com/presentation/d/1zHT7deRbc06MJuXKxQg_PNubu_0ZkFtxqE_6zSE5ydY/edit?usp=sharing
+The requirements.txt file lists all Python libraries that the notebook depends on, and they could be installed using:
+```
+pip install -r requirements.txt
+```
+### Folder Structure
 
+### Authors
 
-### Important Links:
+* **Maroua Jaoua** 
+* **Bogensperger Johannes** 
+* **Siegl Stephan** 
 
-* [Cryptpad - Links to data sources](https://cryptpad.piratenpartei.de/pad/#/2/pad/edit/OJCm1t-Hsz2gIaZHuRmvE+4k/)
+### License
 
-* [Google Docs - Link to Project Proposal](https://docs.google.com/document/d/17UJZGyf5W_zKOpZBso5Ds9KIZ3cHsBMuaKC-mSDAcso/edit#)
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 

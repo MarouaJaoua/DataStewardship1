@@ -79,5 +79,5 @@ To reproduce the results, launch and run the jupyter notebook "life_exp_notebook
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the **CC BY-NC-SA 3.0 IGO** license - see the LICENSE.md file for details
 
